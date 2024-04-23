@@ -1,5 +1,5 @@
-function concatenation1(firstWord, secondWord) {
+function concatenation(firstWord, secondWord) {
     console.log(`${firstWord} ${secondWord}`);
 }
-export { concatenation1 };
+export { concatenation };
 //# sourceMappingURL=concatenation.js.map

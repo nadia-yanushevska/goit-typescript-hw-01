@@ -1,1 +1,1 @@
-{"version":3,"file":"concatenation.js","sourceRoot":"","sources":["../src/concatenation.ts"],"names":[],"mappings":"AAAA,SAAS,cAAc,CAAC,SAAiB,EAAE,UAAkB;IACzD,OAAO,CAAC,GAAG,CAAC,GAAG,SAAS,IAAI,UAAU,EAAE,CAAC,CAAC;AAC9C,CAAC;AAED,OAAO,EAAE,cAAc,EAAE,CAAC"}
+{"version":3,"file":"concatenation.js","sourceRoot":"","sources":["../src/concatenation.ts"],"names":[],"mappings":"AAAA,SAAS,aAAa,CAAC,SAAiB,EAAE,UAAkB;IACxD,OAAO,CAAC,GAAG,CAAC,GAAG,SAAS,IAAI,UAAU,EAAE,CAAC,CAAC;AAC9C,CAAC;AAED,OAAO,EAAE,aAAa,EAAE,CAAC"}
