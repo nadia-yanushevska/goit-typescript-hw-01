@@ -1,4 +1,4 @@
-import { concatenation1 } from './concatenation';
+import { concatenation1 } from './concatenation.js';
 function concatenation(firstWord, secondWord) {
     console.log(`${firstWord} ${secondWord}`);
 }
